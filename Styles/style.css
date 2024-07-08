@@ -1,0 +1,75 @@
+.section-1{
+  color: black;
+  background-color: red;
+  border: 7px solid black;
+  font-size: 25px;
+  text-align: center;
+  margin: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url(https://i.ibb.co/M824MFk/Pushup-Workout5222617796.jpg);
+  background-size: 1240px;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.section-2{
+  color: black;
+  background-color: blueviolet;
+  font-size: 25px;
+  border: 8px solid yellow;
+  margin: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-image: url(https://i.ibb.co/3mBFgZ5/bushido-samurai-wt-1366x768.jpg);
+  background-size: 1250px;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.section-3{
+  color: blue;
+  background-color: black;
+  border: 9px solid green;
+  font-size: 25px;
+  margin: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-image: url(https://i.ibb.co/WGn1dkz/never-give-up-don-t-a1db6zasxnjna3kn.jpg);
+  background-size: 900px;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.paragraph-1{
+  color: red;
+  border: 30px solid blue;
+  background-color: black;
+  box-shadow:5px 10px 15px;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 2px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
+.paragraph-2{
+  color: red;
+  border: 30px solid blue;
+  background-color: black;
+  box-shadow:5px 10px 15px;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 2px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
+.paragraph-3{
+  color: red;
+  border: 30px solid blue;
+  background-color: black;
+  box-shadow:5px 10px 15px;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 2px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
